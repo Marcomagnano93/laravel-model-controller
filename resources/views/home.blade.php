@@ -2,6 +2,6 @@
 
 @section('content')
     <div class="container">
-        <h1>start</h1>
+        <h1>Movies</h1>
     </div>
 @endsection
