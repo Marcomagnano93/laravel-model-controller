@@ -9,7 +9,9 @@
     </head>
     <body>
         <header>
-
+            <div class="container-fluid text-center py-4 bg-warning">
+                <h1 class="text-white">Movies</h1>
+            </div>
         </header>
         <main>
             @yield('content')
